@@ -40,6 +40,7 @@ Diagrams
 For the data explorer to work you must have python installed and the following libraries:
 ==
 matplotlib
+
 numpy
 
 
