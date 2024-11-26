@@ -7,7 +7,7 @@ Alejandro *(Alex)* Mejia Moysen - 100862130
 Ethan Gibson - 100862130
 
 
-There is a section in the document called Assignment 2, that is the updated version of the document.
+There is a section in the document called Assignment 2, that is where the additions for this assignment are.
 ![Diagrams & Writing Portion](https://docs.google.com/document/d/1szqNrgIhF085QIHHwLa5YBssufRFD-E9BiUDgDFfSik/edit?usp=sharing)
 
 *if link broken*
