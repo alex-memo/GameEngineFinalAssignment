@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: f7d1e28c699ad4707b1f29954b360a09
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/PracticeTool.unity
+    guid: 53b92a82a398249d9a2e8fb4408cd77d
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: b0cdb673eeac242a7b6010f8c3150b5d, type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: ae22602a155da47a5b2aa0e587f97ace, type: 2}
+  m_UseUCBPForAssetBundles: 0

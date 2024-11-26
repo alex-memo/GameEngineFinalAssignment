@@ -1,0 +1,50 @@
+{
+  "name": "projectdeathmatch",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.2",
+    "axios-0.21": "npm:axios@^0.21.2",
+    "lodash": "4.17.21",
+    "lodash-4.17": "npm:lodash@^4.17",
+    "@unity-services/cloud-save": "file:Library/PackageCache/com.unity.services.cloudcode/UnityServicesNpmLocal~/cloud-save-0.0.5.tgz",
+    "@unity-services/cloud-save-1.0": "file:Library/PackageCache/com.unity.services.cloudcode/UnityServicesNpmLocal~/cloud-save-1.0.1.tgz",
+    "@unity-services/cloud-save-1.1": "file:Library/PackageCache/com.unity.services.cloudcode/UnityServicesNpmLocal~/cloud-save-1.1.0.tgz",
+    "@unity-services/cloud-save-1.2": "file:Library/PackageCache/com.unity.services.cloudcode/UnityServicesNpmLocal~/cloud-save-1.2.0.tgz",
+    "@unity-services/cloud-save-1.2.1": "file:Library/PackageCache/com.unity.services.cloudcode/UnityServicesNpmLocal~/cloud-save-1.2.1.tgz",
+    "@unity-services/cloud-save-1.3": "file:Library/PackageCache/com.unity.services.cloudcode/UnityServicesNpmLocal~/cloud-save-1.3.0.tgz",
+    "@unity-services/cloud-save-1.4": "file:Library/PackageCache/com.unity.services.cloudcode/UnityServicesNpmLocal~/cloud-save-1.4.0.tgz",
+    "@unity-services/economy-2.0": "file:Library/PackageCache/com.unity.services.cloudcode/UnityServicesNpmLocal~/economy-2.0.2.tgz",
+    "@unity-services/economy-2.1": "file:Library/PackageCache/com.unity.services.cloudcode/UnityServicesNpmLocal~/economy-2.1.1.tgz",
+    "@unity-services/economy-2.2": "file:Library/PackageCache/com.unity.services.cloudcode/UnityServicesNpmLocal~/economy-2.2.0.tgz",
+    "@unity-services/economy-2.2.1": "file:Library/PackageCache/com.unity.services.cloudcode/UnityServicesNpmLocal~/economy-2.2.1.tgz",
+    "@unity-services/economy-2.3": "file:Library/PackageCache/com.unity.services.cloudcode/UnityServicesNpmLocal~/economy-2.3.0.tgz",
+    "@unity-services/economy-2.3.1": "file:Library/PackageCache/com.unity.services.cloudcode/UnityServicesNpmLocal~/economy-2.3.1.tgz",
+    "@unity-services/economy-2.3.2": "file:Library/PackageCache/com.unity.services.cloudcode/UnityServicesNpmLocal~/economy-2.3.2.tgz",
+    "@unity-services/economy-2.4": "file:Library/PackageCache/com.unity.services.cloudcode/UnityServicesNpmLocal~/economy-2.4.0.tgz",
+    "@unity-services/economy-2.4.1": "file:Library/PackageCache/com.unity.services.cloudcode/UnityServicesNpmLocal~/economy-2.4.1.tgz",
+    "@unity-services/remote-config": "file:Library/PackageCache/com.unity.services.cloudcode/UnityServicesNpmLocal~/remote-config-0.0.4.tgz",
+    "@unity-services/remote-config-1.0": "file:Library/PackageCache/com.unity.services.cloudcode/UnityServicesNpmLocal~/remote-config-1.0.1.tgz",
+    "@unity-services/remote-config-1.1.0": "file:Library/PackageCache/com.unity.services.cloudcode/UnityServicesNpmLocal~/remote-config-1.1.0.tgz",
+    "@unity-services/remote-config-1.1.1": "file:Library/PackageCache/com.unity.services.cloudcode/UnityServicesNpmLocal~/remote-config-1.1.1.tgz",
+    "@unity-services/remote-config-1.1.2": "file:Library/PackageCache/com.unity.services.cloudcode/UnityServicesNpmLocal~/remote-config-1.1.2.tgz",
+    "@unity-services/vivox-0.1": "file:Library/PackageCache/com.unity.services.cloudcode/UnityServicesNpmLocal~/vivox-0.1.6.tgz",
+    "@unity-services/lobby-1.0": "file:Library/PackageCache/com.unity.services.cloudcode/UnityServicesNpmLocal~/lobby-1.0.1.tgz",
+    "@unity-services/lobby-1.1": "file:Library/PackageCache/com.unity.services.cloudcode/UnityServicesNpmLocal~/lobby-1.1.0.tgz",
+    "@unity-services/lobby-1.1.1": "file:Library/PackageCache/com.unity.services.cloudcode/UnityServicesNpmLocal~/lobby-1.1.1.tgz",
+    "@unity-services/lobby-1.1.2": "file:Library/PackageCache/com.unity.services.cloudcode/UnityServicesNpmLocal~/lobby-1.1.2.tgz",
+    "@unity-services/lobby-1.2": "file:Library/PackageCache/com.unity.services.cloudcode/UnityServicesNpmLocal~/lobby-1.2.0.tgz"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.177",
+    "@types/lodash-4.17": "npm:@types/lodash@^4.14.177"
+  },
+  "ccaVersion": "2.7.1",
+  "description": ""
+}

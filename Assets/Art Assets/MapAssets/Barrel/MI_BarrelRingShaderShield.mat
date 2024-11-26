@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MI_BarrelRingShaderShield
+  m_Shader: {fileID: -6465566751694194690, guid: 3570db3cc21fe4efd98990b708db8670, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses:
+  - MOTIONVECTORS
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _SampleTexture2D_a4187cccc6a04077b571480a645329f5_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 47ce8f452d93e4e6ebbb5a0e9894fc63, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_c6792956af094ae2bc58acb9e7ad699e_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 47ce8f452d93e4e6ebbb5a0e9894fc63, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_d885c5ff8d324002bce1a5134da30551_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 9bb7c1d5def2a4f69b957853a52b480b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_d8d40200c1cd4334971d7466fb450fe8_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 47ce8f452d93e4e6ebbb5a0e9894fc63, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _BackgroundHighlightStrength: 0.2
+    - _BigBubbleSize: 0.5
+    - _QueueControl: 0
+    - _QueueOffset: 0
+    - _SmallBubbleSize: 0.9
+    m_Colors:
+    - _BackgroundColour: {r: 0, g: 0.01746207, b: 0.03773582, a: 0}
+    - _BackgroundHighlightsColour: {r: 0, g: 0.4848485, b: 1, a: 0}
+    - _BackgroundSpeed: {r: -0.2, g: -0.5, b: 0, a: 0}
+    - _BackgroundTiling: {r: 0.5, g: 0.5, b: 0, a: 0}
+    - _BigBubbleSpeed: {r: -0.1, g: -0.01, b: 0, a: 0}
+    - _BubbleColour: {r: 0, g: 1.38491, b: 5.340313, a: 0}
+    - _BubbleInnerColour: {r: 0, g: 0.01590609, b: 0.0471698, a: 0}
+    - _SmallBubbleSpeed: {r: 0.1, g: -0.05, b: 0, a: 0}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1
+--- !u!114 &7871093226124467582
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 9

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1022cd6b5b3c434a858ea0ae7b75d83, type: 3}
+  m_Name: Fireball
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Fireball
+  <Description>k__BackingField: 
+  <Icon>k__BackingField: {fileID: 0}
+  <AbilityHitVFX>k__BackingField: {fileID: 8384342338300748585, guid: 885e7a1680b934be1b495c8fd5237eef, type: 3}
+  <AbilityCastSFX>k__BackingField: []
+  <AbilitySpawnedSFX>k__BackingField: []
+  <AbilityHitSFX>k__BackingField: []
+  <Element>k__BackingField: 3
+  <Damage>k__BackingField: 250
+  <Cooldown>k__BackingField: 5
+  <SpawnablePrefab>k__BackingField: {fileID: 5192477563261330311, guid: b895fe47433fc432e9124679cb372f36, type: 3}
+  <Duration>k__BackingField: 1.5
+  <Speed>k__BackingField: 14
+  <DestroyOnHit>k__BackingField: 1
+  <MaxImpactVfxLifetime>k__BackingField: 2.75

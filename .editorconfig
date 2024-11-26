@@ -1,0 +1,52 @@
+# .editorconfig file for naming conventions
+
+# Applies only to C# files
+[*.cs]
+
+# Indentation settings
+indent_style = tab               # Use tabs for indentation
+indent_size = tab                # Set tab size to match editor settings
+tab_width = 4                    # Set the width of a tab character to 4 spaces (or adjust as needed)
+
+# End of line style
+end_of_line = lf                 # Use LF for line endings
+
+# Charset
+charset = utf-8                  # Use UTF-8 encoding
+
+# Naming conventions for private and protected fields and properties (variables and properties only)
+dotnet_naming_rule.private_protected_fields_properties_should_be_camel_case.severity = suggestion
+dotnet_naming_rule.private_protected_fields_properties_should_be_camel_case.symbols = private_protected_fields_properties
+dotnet_naming_rule.private_protected_fields_properties_should_be_camel_case.style = camel_case
+
+dotnet_naming_symbols.private_protected_fields_properties.applicable_accessibilities = private, protected
+dotnet_naming_symbols.private_protected_fields_properties.applicable_kinds = field, property
+
+dotnet_naming_style.camel_case.capitalization = camel_case
+
+# Ignore naming conventions for private methods
+dotnet_naming_rule.private_methods_no_naming_enforcement.severity = none
+dotnet_naming_rule.private_methods_no_naming_enforcement.symbols = private_methods
+
+dotnet_naming_symbols.private_methods.applicable_accessibilities = private
+dotnet_naming_symbols.private_methods.applicable_kinds = method
+
+# Naming conventions for public members (variables and methods)
+dotnet_naming_rule.public_should_be_pascal_case.severity = suggestion
+dotnet_naming_rule.public_should_be_pascal_case.symbols = public_members
+dotnet_naming_rule.public_should_be_pascal_case.style = pascal_case
+
+dotnet_naming_symbols.public_members.applicable_accessibilities = public
+dotnet_naming_symbols.public_members.applicable_kinds = method, field, property
+
+dotnet_naming_style.pascal_case.capitalization = pascal_case
+
+# Naming conventions for local variables and parameters
+dotnet_naming_rule.locals_and_parameters_should_be_underscore_camel_case.severity = suggestion
+dotnet_naming_rule.locals_and_parameters_should_be_underscore_camel_case.symbols = locals_and_parameters
+dotnet_naming_rule.locals_and_parameters_should_be_underscore_camel_case.style = underscore_camel_case
+
+dotnet_naming_symbols.locals_and_parameters.applicable_kinds = local, parameter
+
+dotnet_naming_style.underscore_camel_case.capitalization = camel_case
+dotnet_naming_style.underscore_camel_case.required_prefix = _
