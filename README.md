@@ -36,8 +36,6 @@ Minimap Batching
 
 Diagrams
 
-Write Up
-
 
 This was not the repository that is being worked on, this is a forked repo from Project M, which is private
 =
