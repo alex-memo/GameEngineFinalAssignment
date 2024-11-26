@@ -38,9 +38,10 @@ Diagrams
 
 
 For the data explorer to work you must have python installed and the following libraries:
-```matplotlib
-```numpy
 ==
+matplotlib
+numpy
+
 
 This was not the repository that is being worked on, this is a forked repo from Project M, which is private
 =
